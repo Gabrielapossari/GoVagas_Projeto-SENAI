@@ -1,0 +1,195 @@
+.loginCandidato {
+    display: flex;
+    justify-content: space-around;
+    margin-right: 100px;
+}
+
+.loginH1{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 50px;
+    padding: 10px 10px 10px 10px;
+    font-weight: 300;
+    font-size: 25px;
+    line-height: 25px;
+    color: #000000;
+    text-align: center;
+    vertical-align: middle;
+}
+
+.loginCandidato .login-inputs input {
+    box-shadow: 0 0 0 0;
+    border: 0 none;
+    outline: 0;
+    width: 300px;
+}
+
+.loginCandidato .h1-empresa2 {
+    /* margin-top: 30px; */
+    font-weight: 300;
+    font-size: 25px;
+    line-height: 25px;
+    color: #000000;
+}
+
+.loginCandidato .h1-empresa1 {
+    /* padding: 25px; */
+    font-weight: 300;
+    font-size: 25px;
+    line-height: 25px;
+    color: #000000;
+}
+
+.btn-criarconta {
+    display: flex;
+    justify-content: center;
+}
+
+.login {
+    width: 480px;
+    height: 500px;
+    background: #FFFFFF;
+    box-shadow: 0px 2px 2px 1px rgba(0, 0, 0, 0.18);
+    border-radius: 7px;
+    /* margin-left: 750px; */
+    margin-top: 35px;
+    margin-bottom: 50px;
+}
+
+.login tr {
+    position: absolute;
+    width: 430px;
+    height: 0px;
+    border: 1px solid #868686;
+}
+
+
+.loginCandidato .login-inputs1 input {
+    box-shadow: 0 0 0 0;
+    border: 0 none;
+    outline: 0;
+    width: 430px;
+}
+
+.login .login-inputs {
+    padding: 25px;
+}
+
+.login-inputs p {
+    padding-left: 250px;
+    padding-top: 25px;
+}
+.login .login-inputs1 {
+    padding: 10px 70px 10px 25px;
+}
+
+.login-inputs1 p {
+    padding-left: 250px;
+    padding-top: 25px;
+}
+
+.btn-criarconta1 {
+    display: flex;
+    justify-content: center;
+    /* margin-top: 20px; */
+}
+
+
+/* teste login */
+
+.carouselExampleCaptions li {
+    width: 240px;
+}
+
+.tr-empresa {
+    top: 690px;
+}
+
+.slide-carrossel-login {
+    width: 600px;
+    height: 5px;
+}
+
+.w-200 {
+    width: 180px;
+    margin-left: 210px;
+    padding-top: 30px;
+}
+
+.slide-carrossel-login h5 {
+    color: black;
+}
+
+.slide-carrossel-login p {
+    color: black;
+}
+
+.slide-carrossel-login img {
+    vertical-align: middle;
+    border-style: none;
+    padding-bottom: 300px;
+}
+
+/* .carousel-item img{
+    border-radius: 70px;
+} */
+
+.carousel-indicators{
+    margin: 0px 20px;
+}
+
+/* .carousel-indicators li{
+    outline-style: groove;
+    margin: 0px 10px;
+    transition: opacity .18s ease;
+} */
+
+.carousel-indicators .active {
+    opacity: 1;
+    background-color: black;
+  
+}
+
+/* .carousel-control-next-icon, .carousel-control-prev-icon {
+    background-color: #DB324A;
+    width: 20px;
+    height: 20px;
+    border-radius: 100%;
+} */
+
+.carousel-control-next-icon {
+    background-image: url("../../../assets/images/setae.webp");
+}
+.carousel-control-prev-icon {
+    background-image: url("../../../assets/images/setaa.webp");
+}
+
+
+/* .login li {
+    background-color: #DB324A;
+    color: white;
+    border-radius: 7px;
+} */
+
+.nav-link {
+    display: block;
+    padding: .5rem 1rem;
+    background-color: #fff;
+    color: #495057;
+}
+a :hover {
+    color: #495057;
+}
+
+.nav-tabs .nav-link {
+    border: 0px solid transparent;
+    border-top-left-radius: .25rem;
+    border-top-right-radius: .25rem;
+}
+
+.nav-tabs .nav-item.show .nav-link, .nav-tabs .nav-link.active {
+    color: #fff;
+    background-color: #DB324A;
+    border-color: #dee2e6 #dee2e6 #fff;
+}

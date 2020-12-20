@@ -1,0 +1,73 @@
+.publi-options_vaga2 {
+    margin-left: 150px;
+}
+
+.publi_vaga2_2 {
+    display: flex;
+}
+
+.publi-options_vaga2 {
+    margin-top: 150px;
+}
+
+.publi-options_vaga2 #publih2 {
+    display: flex;
+    justify-content: center;
+}
+
+.publi-options_2>.BarraProgresso {
+    width: 800px;
+}
+
+#forms2 {
+    width: 753px;
+    height: auto;
+    background: #FFFFFF;
+    box-shadow: 0px 2px 5px 1px rgba(0, 0, 0, 0.3);
+    border-radius: 7px;
+    padding-bottom: 20px;
+}
+
+.btn-proximoo {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 30px 0px 30px -50px 
+}
+
+.btn-btn-proximoo #btn2 {
+    margin-right: 30px;
+}
+
+.alignSelect {
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.alignPrincipal {
+    padding-top: 20px;
+}
+
+.alignPrincipal Input {
+    margin-left: 37.5px;
+}
+
+.labelAlinhar label {
+    margin-left: 37.5px;
+}
+
+#inpustyle {
+    width: 679px;
+    height: 145px;
+    margin-top: 10px;
+    margin-bottom: 20px;
+    padding-left: 10px;
+    box-sizing: content-box;
+    border-radius: 7px;
+    border: 1px solid #868686;
+}
+
+#forms2 #btn1{
+    margin-top: 25px;
+    margin-left: 275px;
+}
